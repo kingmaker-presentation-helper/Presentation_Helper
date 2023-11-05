@@ -108,7 +108,7 @@ def extract_keyword(text):
     model = BertModel.from_pretrained('skt/kobert-base-v1')
     kw_model = KeyBERT(model)
     kiwi = Kiwi()
-    keywords = kw_model.extract_keywords(text, keyphrase_ngram_range=(1, 1), stop_words=None, top_n=15)
+    keywords = kw_model.extract_keywords(text, keyphrase_ngram_range=(1, 1), stop_words=None, top_n=50)
 
     for keyword in keywords:
         # keyword_list.append(keyword[0])
@@ -139,3 +139,10 @@ def extract_keyword(text):
     # return keyword_list
 
     return delete_included_word3(keyword_list.copy())
+
+
+with open("test.txt", "r", encoding='UTF8') as file:
+    text = file.read()
+# print(text)
+
+print(extract_keyword(text))
