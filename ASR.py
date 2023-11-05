@@ -10,14 +10,13 @@ import soundfile as sf
 
 #-------------------------------PARAMETER-------------------------------------
 audioFilePath = "C:\\Users\\sejung\\Desktop\\raw\\test.mp3"
-generatedTextFile = "C:\\Users\\sejung\\Desktop\\raw\\recognized_text.txt"
+generatedTextFile = "C  :\\Users\\sejung\\Desktop\\raw\\recognized_text.txt"
 #-----------------------------------------------------------------------------
 
 
 def reduce_noise(data, sample_rate):
     reduced_noise = nr.reduce_noise(y=data, sr=sample_rate, prop_decrease=0.7)
     return reduced_noise
-
 
 
 def preprocess_audio(file_path):
@@ -49,7 +48,7 @@ def preprocess_audio(file_path):
     return segments, sample_rate
 
 openApiURL = "http://aiopen.etri.re.kr:8000/WiseASR/Recognition"
-accessKey = "5add8bbc-36cd-4dd6-9819-6f934fc90dd8"
+accessKey = ""
 languageCode = "korean"
 
 segments, sample_rate = preprocess_audio(audioFilePath)
