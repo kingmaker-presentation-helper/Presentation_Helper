@@ -1,4 +1,3 @@
-![image](https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/e7112eca-04e0-4387-839f-782d8fb74a4c)# Presentation_Helper
 가천대학교 소프트웨어학과 졸업작품
 발표 연습에 도움이 되는 사이트
 
