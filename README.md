@@ -1,61 +1,24 @@
+# Presentation_Helper
 가천대학교 소프트웨어학과 졸업작품
 
-발표 연습에 도움이 되는 사이트
+# 자세한 내용은 위키를 참고해주세요
 
-# Website Instruction
-
-### Main Page
-
-<img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/f24511d5-221e-4cd8-ac32-bcbfd5406113">
-<img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/758a9b0b-ca33-4242-9c6a-18c155b5e85d">
-
-발표에 관련해 참고할 수 있는 영상
-
-발표 연습하러 가기 - Insert Information of Presentation로 넘어감
-
-연습결과 확인하기 -  Anticipated Questions로 넘어감
-
-
-### Insert Information of Presentation
-
-Navigated from the _Main Page_ to the __발표 연습하러 하기__ button
-
-<img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/328f96b1-78f5-4e6a-b05c-38d7c94fdb44">
-<img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/9153d729-57ec-41e9-9761-88925ad1fab8">
-
-
-### Record Presentation
-
-Navidated from the _Insert Information of Presentation_
-
-<img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/a5181836-f8ad-4f5c-ac63-fe1551e95a50">
-<img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/6f6488ee-4a70-42ee-a619-38632bb62be4">
-<img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/07a6e041-9998-4450-9cfd-ccfec134f4a2">
-
-
-### Anticipated Questions
-
-Navigated from the _Main Page_ to the __연습결과 확인하기__ button
-
-<img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/ec29b762-db27-4bd1-bec8-61819db0e995">
-
-
-### Presentation Analysis
-
-Navigated from the _Anticipated Questions_
-
-<img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/b835fee3-574d-4bd6-b2ab-2f1605e52f02">
-<img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/23faa517-819d-43c9-bec4-c375df44c582">
-<img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/fb659f48-bf16-449a-b029-13bcbfbff7dc">
-<img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/b9b20bce-707d-4a74-ad85-079ff52b319d">
-<img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/f44921e2-08ab-4acc-bab1-6c9d94628716">
-<img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/ea13a134-28f6-4a36-8abc-b1455b642958">
-<img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/a5db12af-7094-493e-aac8-e331aa1ffb21">
-<img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/b7ed4982-aeee-4d30-ae3b-f4e462ab1414">
-
+# App Preview
++
+어플 초기 화면
++ <img width="340" alt="image" src="https://github.com/HBKVN/Presentation_Helper/assets/117991880/c67edddd-5ed8-43d8-9b47-9afd69f990cf">
+발표 연습 서비스 진입
++ <img width="428" alt="image" src="https://github.com/HBKVN/Presentation_Helper/assets/117991880/94c66bad-2381-4f25-a161-b0f76d496067">
+발표 연습중
++ <img width="442" alt="image" src="https://github.com/HBKVN/Presentation_Helper/assets/117991880/ad83d8f1-d431-4abc-868b-4a8acfe24acc">
+예상 질문
++ <img width="220" alt="image" src="https://github.com/HBKVN/Presentation_Helper/assets/117991880/869924d7-8992-4c89-bdcf-9be51a18bac6">
+발표 분석1
++ <img width="452" alt="image" src="https://github.com/HBKVN/Presentation_Helper/assets/117991880/9f195396-6052-4a22-9b2b-37f053926d99">
+발표 분석2
++ <img width="444" alt="image" src="https://github.com/HBKVN/Presentation_Helper/assets/117991880/5b1a3fbc-ccc4-4a63-940b-ddd805dbf360">
 
 # REST API 사용법
-
 ## keyword extractor
 ### 1) api.py를 실행.
 
