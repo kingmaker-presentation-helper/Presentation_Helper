@@ -6,8 +6,6 @@
 
 ### Main Page
 
-웹사이트 기본 화면
-
 <img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/f24511d5-221e-4cd8-ac32-bcbfd5406113">
 <img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/758a9b0b-ca33-4242-9c6a-18c155b5e85d">
 
@@ -20,7 +18,7 @@
 
 ### Insert Information of Presentation
 
-Main Page에서 발표 연습하기 버튼으로 넘어옴
+Navigated from the _Main Page_ to the __발표 연습하러 하기__ button
 
 <img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/328f96b1-78f5-4e6a-b05c-38d7c94fdb44">
 <img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/9153d729-57ec-41e9-9761-88925ad1fab8">
@@ -28,7 +26,7 @@ Main Page에서 발표 연습하기 버튼으로 넘어옴
 
 ### Record Presentation
 
-Insert Information of Presentation에서 넘어옴
+Navidated from the _Insert Information of Presentation_
 
 <img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/a5181836-f8ad-4f5c-ac63-fe1551e95a50">
 <img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/6f6488ee-4a70-42ee-a619-38632bb62be4">
@@ -37,14 +35,14 @@ Insert Information of Presentation에서 넘어옴
 
 ### Anticipated Questions
 
-Main Page에서 연습결과 확인하기 버튼으로 넘어옴
+Navigated from the _Main Page_ to the __연습결과 확인하기__ button
 
 <img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/ec29b762-db27-4bd1-bec8-61819db0e995">
 
 
 ### Presentation Analysis
 
-Anticipated Questions에서 넘어옴
+Navigated from the _Anticipated Questions_
 
 <img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/b835fee3-574d-4bd6-b2ab-2f1605e52f02">
 <img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/23faa517-819d-43c9-bec4-c375df44c582">
