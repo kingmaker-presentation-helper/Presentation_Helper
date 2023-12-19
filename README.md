@@ -4,7 +4,6 @@
 # Website Instruction
 +
 ## 메인
-+ <img width="340" alt="image" src="https://github.com/HBKVN/Presentation_Helper/assets/117991880/c67edddd-5ed8-43d8-9b47-9afd69f990cf">
 + <img width="340" alt="" src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/f24511d5-221e-4cd8-ac32-bcbfd5406113">
 ## 연습 정보 입력
 + <img width="428" alt="image" src="https://github.com/HBKVN/Presentation_Helper/assets/117991880/94c66bad-2381-4f25-a161-b0f76d496067">
