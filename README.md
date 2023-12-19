@@ -5,6 +5,8 @@
 +
 ## 메인
 + <img alt="" src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/f24511d5-221e-4cd8-ac32-bcbfd5406113">
+![image](https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/758a9b0b-ca33-4242-9c6a-18c155b5e85d)
+
 ## 연습 정보 입력
 + <img width="428" alt="image" src="https://github.com/HBKVN/Presentation_Helper/assets/117991880/94c66bad-2381-4f25-a161-b0f76d496067">
 ## 연습 녹화
