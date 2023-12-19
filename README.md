@@ -4,7 +4,7 @@
 # Website Instruction
 +
 ## 메인
-+ <img alt="" src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/f24511d5-221e-4cd8-ac32-bcbfd5406113">
+<img alt="" src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/f24511d5-221e-4cd8-ac32-bcbfd5406113">
 ![image](https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/758a9b0b-ca33-4242-9c6a-18c155b5e85d)
 
 ## 연습 정보 입력
