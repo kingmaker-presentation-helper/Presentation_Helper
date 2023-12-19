@@ -12,8 +12,11 @@
 <img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/758a9b0b-ca33-4242-9c6a-18c155b5e85d">
 
 발표에 관련해 참고할 수 있는 영상
+
 발표 연습하러 가기 - Insert Information of Presentation로 넘어감
+
 연습결과 확인하기 -  Anticipated Questions로 넘어감
+
 
 ### Insert Information of Presentation
 
@@ -21,6 +24,7 @@ Main Page에서 발표 연습하기 버튼으로 넘어옴
 
 <img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/328f96b1-78f5-4e6a-b05c-38d7c94fdb44">
 <img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/9153d729-57ec-41e9-9761-88925ad1fab8">
+
 
 ### Record Presentation
 
@@ -30,11 +34,13 @@ Insert Information of Presentation에서 넘어옴
 <img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/6f6488ee-4a70-42ee-a619-38632bb62be4">
 <img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/07a6e041-9998-4450-9cfd-ccfec134f4a2">
 
+
 ### Anticipated Questions
 
 Main Page에서 연습결과 확인하기 버튼으로 넘어옴
 
 <img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/ec29b762-db27-4bd1-bec8-61819db0e995">
+
 
 ### Presentation Analysis
 
@@ -48,6 +54,7 @@ Anticipated Questions에서 넘어옴
 <img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/ea13a134-28f6-4a36-8abc-b1455b642958">
 <img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/a5db12af-7094-493e-aac8-e331aa1ffb21">
 <img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/b7ed4982-aeee-4d30-ae3b-f4e462ab1414">
+
 
 # REST API 사용법
 
