@@ -10,6 +10,7 @@
 
 <img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/f24511d5-221e-4cd8-ac32-bcbfd5406113">
 <img src="https://github.com/kingmaker-presentation-helper/Presentation_Helper/assets/57437648/758a9b0b-ca33-4242-9c6a-18c155b5e85d">
+
 발표에 관련해 참고할 수 있는 영상
 발표 연습하러 가기 - Insert Information of Presentation로 넘어감
 연습결과 확인하기 -  Anticipated Questions로 넘어감
